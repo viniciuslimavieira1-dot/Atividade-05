@@ -1,0 +1,2 @@
+### Atividade 05 - Paternidade
+Este projeto foi desenvolvido como parte de uma atividade prática sobre HTML e CSS, abordando o tema da Paternidade com base nas orientações de cuidados e acompanhamento durante a gestação e o pós-parto.
